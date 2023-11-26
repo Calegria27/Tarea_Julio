@@ -4,4 +4,4 @@ WORKDIR /app
 
 COPY ejemplo.py/ /app/ejemplo.py
 
-CMD["python","ejemplo.py"]
+CMD ["python","ejemplo.py"]
